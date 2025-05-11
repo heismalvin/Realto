@@ -1,2 +1,2 @@
 # Realto
-a real estate website where you can view our houses available and make enquires
+A real estate website where you can view our houses available and make enquires
